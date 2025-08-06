@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tian Jin
+# Hi there 👋, I'm Tian (Hazel) Jin
 
 🎓 **Master's Student in Statistics**  
 🔬 **Research Focus:** Large Language Models (LLMs) & Reinforcement Learning (RL)
