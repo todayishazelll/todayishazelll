@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Tian Jin
 
-<!--
-**todayishazelll/todayishazelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student in Statistics**  
+🔬 **Research Focus:** Large Language Models (LLMs) & Reinforcement Learning (RL)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently exploring **LLM alignment** and **RL for decision-making**
+- 📊 Strong background in **Statistics & Machine Learning**
+- 🤝 Open to collaborating on **AI research** and **open-source projects**
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, R, SQL
+- **ML/DL:** PyTorch, TensorFlow, Hugging Face Transformers  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Other Tools:** Git, LaTeX
+
+---
+
+## 📚 Recent Interests
+- Fine-tuning and evaluation of **LLMs**  
+- **Reinforcement Learning** for decision-making and control  
+- **Probabilistic modeling** in AI and statistics  
+
+
+---
+
+⭐️ *Feel free to explore my repositories and connect if you share similar interests in AI and statistics!*
+
