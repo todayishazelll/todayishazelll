@@ -5,29 +5,10 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently exploring **LLM alignment** and **RL for decision-making**
-- 📊 Strong background in **Statistics & Machine Learning**
-- 💹 Also **interested in Quantitative Finance** and have **related internship experience**
-- 🎯 **Aiming to pursue a career in quant** and open to **research or collaboration opportunities**
-- 🤝 Open to collaborating on **AI research**, **quant projects**, and **open-source initiatives**
-
----
-
-## 🛠 Skills
-- **Programming:** Python, R, SQL
-- **ML/DL:** PyTorch, TensorFlow, Hugging Face Transformers  
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Other Tools:** Git, LaTeX
-
----
-
 ## 📚 Recent Interests
-- Fine-tuning and evaluation of **LLMs**  
-- **Reinforcement Learning** for decision-making and control  
+- Fine-tuning and evaluation of **LLMs**   
 - **Derivatives pricing**
-- **Quantitative strategies** and **financial data analysis**
-
+- **Quantitative strategies**
 
 ---
 
